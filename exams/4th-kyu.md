@@ -22,10 +22,13 @@
 - **Jodan Uke**: parata alta con l'avambraccio (per proteggere da colpi provenienti dall'alto). Il braccio
   si muove verso l'alto e nel cambio di posizione incrocia con l'altro braccio davanti il volto arrestandosi
   con un'inclinazione di circa 45°.
-- **Chudan Soto Uke**: parata con l'avambraccio portata da sopra la spalla con rotazione del busto
+- **Chudan Soto Uke**: parata con l'avambraccio portata da sopra la spalla con rotazione del busto. 
+  L'avambraccio scende e si ferma a 45° rivolto in avanti con il pugno chiuso rivolto in alto. L'ulna è la parte
+  del braccio che va a parare il colpo dell'avversario.
 - **Gedan Barai**: parata utile nel caso di attacchi Chudan. Il braccio parte dal'altezza della spalla e scorre
   davanti al busto per arrivare a bloccare un attacco frontale.
-- **Sune Uke**: parata con tibia (hidari o migi), utile per contrastare colpi come Chudan Mawashi Geri.
+- **Sune Uke**: parata con tibia (hidari o migi), utile per contrastare colpi come Chudan Mawashi Geri
+  scaricandone l'impatto.
 
 ### Calci
 - **Mae Keage**: calcio frontale portato con la gamba tesa dal basso verso l'alto. Il piede deve 
@@ -36,10 +39,11 @@
   la gamba con ginocchio piegato per poi distendere la caviglia e colpire con la parte della pianta 
   immediatamente sotto le dita. Può essere anche Mae Mae Geri se condotto dalla gamba avanzata.
 - **Mawahi Geri (Jodan - Chudan - Gedan)**: calcio ruotato, importante ruotare bene gusto e piede d'appoggio.
-- **Yoko Geri (Chudan)**: calcio portato all'altezza dello stomaco con flessione del ginocchi e distensione.
+- **Yoko Geri (Chudan)**: calcio laterale portato all'altezza dell'addome con flessione del ginocchio 
+  verso il busto e distensione. Nel ritorno si compie il movimento opposto.
 - **Hiza Geri (Jodan - Chudan - Gedan) con e senza Kubi Zumo**: colpo con il ginoccio portato con avanzamento
   del bacino. Con Kubi Zumo la testa dell'avversario viene bloccata e trascinata verso il basso.
-- **Kasetzu Geri**: calcio portato all'altezza dell'articolazione delle ginocchia. Il piede colpisce a 45° 
+- **Kansetzu Geri**: calcio portato all'altezza dell'articolazione delle ginocchia. Il piede colpisce a 45° 
   rispetto alla posizione di attacco. Vietato in gara.
 
 ### Renraku
