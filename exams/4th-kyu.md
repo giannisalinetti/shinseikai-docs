@@ -7,7 +7,7 @@
 - **Uchi Hachiji Dachi**: piedi rivolti verso l'interno con punte che si incontrano, ginocchia ravvicinate.
 - **Kiba Dachi**: posizione del fantino, piedi paralleli divaricati, ginocchia flesse, busto eretto.
 - **Heiko Dachi**: posizione naturale, caviglie larghezza spalle, piedi paralleli.
-- **Musibi Dachi**: posizione naturale, talloni uniti e piedi a 30°
+- **Musubi Dachi**: posizione naturale, talloni uniti e piedi a 30°
 - **Kamae Dachi**: posizione di guardia, **hidari**(guardia sinistra) o **migi**(guardia destra).
 
 ### Attacchi
