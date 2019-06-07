@@ -7,28 +7,33 @@
 - **Uchi Hachiji Dachi**: piedi rivolti verso l'interno con punte che si incontrano, ginocchia ravvicinate.
 - **Kiba Dachi**: posizione del fantino, piedi paralleli divaricati, ginocchia flesse, busto eretto.
 - **Heiko Dachi**: posizione naturale, caviglie larghezza spalle, piedi paralleli.
-- **Musibi Dachi**: posizione naturale, talloni uniti e piedi a 45°
+- **Musibi Dachi**: posizione naturale, talloni uniti e piedi a 30°
 - **Kamae Dachi**: posizione di guardia, **hidari**(guardia sinistra) o **migi**(guardia destra).
 
 ### Attacchi
 - **Oi Tsuki (Jodan - Chudan)**: attacco portato col pugno corrispondente alla gamba avanzata con rotazione di anca e spalla.
 - **Gyaku Tsuki (Jodan - Chudan)**: attacco portato col pugno opposto alla gamba avanzata con rotazione di anca e spalla.
-- **Shita Tsuki**: attacco montante all'altezza dell'addome portato con il polso ruotato .
-- **Age Tsuki**: attacco montante portato verso il mento dell'avversario con il polso ruotato.
+- **Shita Tsuki**: attacco montante all'altezza dell'addome portato con il palmo rivolto in alto.
+- **Age Tsuki**: attacco montante portato verso il mento dell'avversario con il palmo rivolto in alto.
 - **Kagi Tsuki (Jodan - Chudan)**: gancio con rotazione di anca e spalla.
-- **Hiji Uchi**: colpo di gomito portato dall'alto verso il basso con rotazione del busto.
+- **Hiji (Mawashi) Uchi**: colpo di gomito (hiji) portato dall'alto verso il basso e verso l'interno con rotazione del busto.
+- **Sanbon Tsuki**: sequenza di tre colpi Oi Tsuki - Gyaku Tsuki - Oi Tsuki.
 
 ### Parate
 - **Jodan Uke**: parata alta con l'avambraccio (per proteggere da colpi provenienti dall'alto). Il braccio
   si muove verso l'alto e nel cambio di posizione incrocia con l'altro braccio davanti il volto arrestandosi
   con un'inclinazione di circa 45°.
-- **Chudan Soto Uke**: parata con l'avambraccio portata da sopra la spalla con rotazione del busto. 
-  L'avambraccio scende e si ferma a 45° rivolto in avanti con il pugno chiuso rivolto in alto. L'ulna è la parte
+- **Chudan Uchi Uke**: parata verso l'interno (uchi). Si esegue con l'avambraccio portato da sopra la spalla accompagnato 
+  da una rotazione del busto. L'avambraccio scende e si ferma a 45° rivolto in avanti con il pugno chiuso rivolto in alto. L'ulna è la parte
   del braccio che va a parare il colpo dell'avversario.
+- **Chudan Soto Uke**: parata verso l'esterno (soto). Il pugno chiuso parte da sotto l'ascella opposta e ruota verso l'alto
+  mentre l'avanbraccio viene portato verso l'esterno, arrestandosi perpendicolare a 45° rivolto in avanti.
 - **Gedan Barai**: parata utile nel caso di attacchi Chudan. Il braccio parte dal'altezza della spalla e scorre
   davanti al busto per arrivare a bloccare un attacco frontale.
 - **Sune Uke**: parata con tibia (hidari o migi), utile per contrastare colpi come Chudan Mawashi Geri
   scaricandone l'impatto.
+- **... Uke**: parata completa. Utile a fornire una copertura completa. La gamba si alza piegata in avanti mentre
+  le braccia si chiudono lateralmente per parare contemporaneamente un chudan mawashi geri e un jodan.
 
 ### Calci
 - **Mae Keage**: calcio frontale portato con la gamba tesa dal basso verso l'alto. Il piede deve 
