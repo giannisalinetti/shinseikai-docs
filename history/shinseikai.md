@@ -36,4 +36,4 @@ Gli esami di passaggio di Kyu nello Shinseikai sono gratuiti per gli allievi.
 
 ## Shineikai nel mondo
 Vi sono diversi gruppi Shinseikai nel mondo, in Italia ne è il rappresentante 
-e direttore ufficiale **Filippo Calà**.
+e direttore ufficiale Sensei **Filippo Calà**.
