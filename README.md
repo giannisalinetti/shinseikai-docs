@@ -1,7 +1,9 @@
 # SHINSEIKAI KARATE - ROME DOJO 
 ## (Fighting Karate Roma Team) - www.fighting-karate.com
 
-![Shinseikai Kanji](shinseikaikanji.jpg)
+<p align="center">
+  <img src="shinseikaikanji.jpg">
+</p>
   
 Documentazione non ufficiale relativa a tecnica, teoria e informazioni 
 addizionali sullo Shinseikai Karate.
