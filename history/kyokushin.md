@@ -14,14 +14,22 @@ a Tokyo nel 1946.
 
 Frequentò l'università di Takushoku dove fu accettato come 
 allievo del maestro **Gichin Funakoshi**, con cui studiò per due anni, per poi
-studiare per diversi anni lo stile **Goju-Ryu** con il maestro **So Nei Chu**,
+studiare per diversi anni lo stile **Gōjū-ryū** con il maestro **So Nei Chu**,
 a sua volta studente del fondatore dello stile **Chojun Miyagi**.
+Oyama conserva un ricordo importante del suo maestro, che lo guidò verso 
+l'abbandono delle abitudini rissose e lo spinse ad un lavoro spirituale e 
+filosofico su se stesso, oltre che fisico.
+L'influenza del Gōjū-ryū, stile di karate improntato sulla resistenza e forza
+fisica, ebbe un peso importante nello sviluppo dello stile personale di Oyama.
 
-Successivamente si ritirò in solitudine sul monte Minobu nella prefettura di 
-Yamanashi per allenare mente e corpo. Qui rimase per 14 mesi e sviluppo l'evoluzione
+Successivamente si ritirò in solitudine sul monte **Kiyozumi** nella prefettura di 
+Chiba per allenare mente e corpo. Qui rimase per 14 mesi e sviluppo l'evoluzione
 del suo stile di Karate a pieno contatto. In questo periodo lo accompagno un 
 unico testo, il **Libro dei Cinque Anelli** di **Miyamoto Musashi**, leggendario
 samurai giapponese, che lo influenzò profondamente.
+In realtà Oyama non partì solo: ad accompagnarlo c'era un suo allievo, Yashiro,
+che cedetto dopo 6 mesi di allenamento, lasciando il maestro solo ad allenarsi
+sul monte. 
 
 Aprì a Tokyo nel 1953 il suo primo Dojo, denominato "Oyama Dojo" in cui 
 inizialmente si praticava una forma di Goju-Ryu rafforzata dallo stile sviluppato
@@ -40,6 +48,11 @@ si tiene da allora con frequenza annuale.
 Nel 1975 si svolse il primo World Full Contact Karate Open Championships a Tokyo,
 protraendosi tutt'oggi con frequenza quadriennale.
 
+Mas Oyama muore il 19 aprile 1994 a causa di un cancro al polmone, all'età di 
+70 anni. Nomina **Akiyoshi Matsui** come suo successore a capo dell'organizzazione.
+Da questo momento in poi la scuola vedrà una frammentazione in diverse scuole 
+e correnti distaccatesi per motivi a volte stilistici, a volte organizzativi.
+
 ## Lo stile Kyokushin
 Lo stile del karate Kyokushin, sebbene abbia derivazioni dal Goju-Ryu e dallo 
 Shotokan, prevede il pieno contatto e pone l'enfasi sul condizionamento 
@@ -48,12 +61,12 @@ protezioni. Le protezioni sono consentite in fase di allenamento.
 L'allenamento è tipicamente molto rigoroso e impegnativo dal punto di vista 
 fisico.
 Sono proibiti i pugni (tsuki) al viso ma non i calci (geri). Sono proibite le
-prese al Karategi e alla testa per Kubi Zumo.
+prese al Karategi e alla testa per clinch.
 In gara è previsto il KO (Ippon).
 
 ## Esponenti contemporanei
 Tra gli esponenti contemporanei degni di menzione dello stile Kyokushin:
-- Andy Hug
+- Andy Hug (poi passato al Seidokaikan)
 - Kazumi Hajime
 - Shokei Matsui
 - Kenji Midori

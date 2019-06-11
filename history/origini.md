@@ -22,6 +22,7 @@ da Okinawa diffusero il karate in Giappone nel tentativo di inserire la loro
 arte nella più vasta tradizione del **budo** (insieme delle arti marziali dei
 guerrieri giapponesi).
 
+### Le origini a Okinawa
 Le origini della storia del Karate sono legate alla storia dell'isola di 
 **Okinawa**, oggi prefettura del Giappone e parte dell'arcipelago delle Ryūkyū.
 Nel XIV secolo il re **Satto**, capo degli stati di *Sanzan*, allaccia una relazione
@@ -80,8 +81,9 @@ più aperta.
 [Higaonna Kanryō](https://it.wikipedia.org/wiki/Higaonna_Kanry%C5%8D), nato a 
 Naha nel 1852, dopo aver approfondito l'arte del combattimento per 15 anni in 
 Cina torna ad Okinawa e fonda una scuola che viene denominata **Naha-Te**, 
-ripreso poi dall'allievo [Chōjun Miyagi](https://it.wikipedia.org/wiki/Ch%C5%8Djun_Miyagi)
-che fondò la scuola **Gōjū-ryū**.
+il cui stile viene ripreso poi dall'allievo 
+[Chōjun Miyagi](https://it.wikipedia.org/wiki/Ch%C5%8Djun_Miyagi) che fondò la 
+scuola **Gōjū-ryū**.
 
 ### Gli stili di Karate originali di Okinawa
 Il Karate di Okinawa delle origini può essere distinto in tre filoni principali
@@ -92,8 +94,17 @@ in cui si sono diffusi:
 - **Tomari-te**, sviluppatosi nella città di Tomari, con molti punti in comune
   con lo Shuri-te.
 
+Le due correnti principali che ne deriveranno saranno la scuola **Shōrin-ryū** 
+e la scuola **Shōrei ryū**.
+La prima scuola pone principalmente l'accento sulla velocità e leggerezza dei 
+movimenti del karateka, mentre la seconda sulla forza fisica e sullo sviluppo 
+della potenza muscolare e resistenza.
+
+### Sōkon Matsumura
 Lo Shuri-te è legato a quella che sarà la prima scuola di Karate nell'isola di
 Okinawa, fondata da **Sōkon Matsumura**, figura leggendaria del Karate tradizionale.
+Questa tradizione fondata da Matsumura confluirà in quella che è oggi la scuola
+**Shōrin-ryū**, una delle principali di Okinawa.
 L'importanza di Matsumura sta nel fatto che nel suo insegnamento si possono 
 trovare diversi elemeneti culturali integrati:
 - La tradizione del Te di Okinawa,
@@ -113,9 +124,136 @@ Parecchi allievi di A. Itosu contribuirono alla diffusione e allo sviluppo del
 Karate di Okinawa, in particolare **Gichin Funakoshi**, che avrà il maggior 
 peso per la sua diffusione in Giappone.
 
-### La scuola Shōtōkan
+### La scuola Shōtōkan di Gichin Funakoshi
+L'associazione tra lo stile Shōtōkan e Gichin Funakoshi è immediata. Fu allievo
+sia di Ankō Asato che di Ankō Itosu, ambedue allievi a loro volta di Matsumura.
+Funakoshi, già allievo di Asato, conobbe Itosu all'inizio della sua carriera di 
+insegnamento e, su consiglio dello stesso Asato, divenne allievo di ambedue i
+maestri. 
+Un'aneddoto racconta come egli praticasse fino notte tarda e che i vicini,
+vedendolo sempre rincasare tardissimo, credesse che passasse le sue notti in 
+case di piacere. Egli non svelò mai la sua reale attività, a testimoniare come
+in lui fosse rimasta l'idea di segretezza della pratica del Karate.
+  
+Nel 1922 si reca a Kyoto per una dimostrazione scolastica della scuola di 
+Okinawa e qui conosce **Jigorō Kanō**, fondatore del Judo. Questi lo invita a 
+tenere una presentazione a Tokyo nel suo dojo **Kōdōkan**. Dopo il successo di 
+queste dimostrazioni decide dunque di insediarsi definitivamente a Tokyo.
+Da qui ha inizio l'effettiva diffusione del Karate in territorio giapponese.
+Inizialmente la sua permanenza a Tokyo è dura e non priva di momenti di 
+grande difficoltà economica, finché la sua scuola iniziò ad avere un numero 
+sempre più elevato di allievi.
+  
+Anche nelle testimonianze di Funakoshi si può vedere come il significato degli
+ideogrammi sia cambiato. In un suo primo testo intitolato **Ryūkyū Kenpo Karate** 
+(Il Karate, pugilato di Ryūkyū) usa gli ideogrammi che stanno a significare 
+"mano della Cina", mentre in un secondo testo del 1930, scritto nel pieno 
+dell'affermazione del nazionalismo giapponese, utilizza l'ideogramma "vuoto".
+La parola Cina infatti appare com un elemento di disturbo per l'integrazione 
+del Karate nel Budō Giapponese.
+Egli spiega la nuova traduzione con due frasi dell'insegnamento buddista Zen:
+  
+*Tutti gli aspetto della realtà visibile equivalgono al vuoto (nulla).  
+Il vuoto (nulla) è l'origine di tutta la realtà.*
 
+Dopo varie esperienze didattiche in giappone in diversi dojo, Funakoshi fonda
+il dojo Shōtōkan nel 1938, frequentato da numerosi allievi sino allo scoppio
+della seconda guerra mondiale. Sarà distrutto da un bombardamento nel marzo 
+1945.
+Il nome **Shōtōkan** deriva da Shōtō (fruscio della pineta),  pseudonimo che 
+Funakoshi si era dato come poeta e calligrafo, arte che praticava sin da giovane, 
+mentre **kan** significa casa o dojo.
+Scriverà in una sua nota: *"Amerei proseguire la via del karate, così come la
+vita, nella grazia della verità intrinseca alla calma del fruscio dei pini."*.
 
+Dopo la guerra, Funakoshi perde sia la moglie che il figlio Yoshitaka, che aveva
+contribuito assieme al padre nell'insegnamento nel dojo. Tuttavia, la scuola
+Shōtōkan viene ricostruita dai vecchi e nuovi adepti e nel 1949 viene fondata
+la **Japan Karate Association** con Funakoshi presidente.
+Dagli inizi degli anni '50 numerose contraddizioni interne sul modo di praticare
+e insegnare il Karate iniziano a montare. Queste si faranno sempre più aspre
+e irrecuperabili dopo la morte di Funakoshi nel 1957 all'età di 89 anni.
+
+A Funakoshi si deve il Karategi, ispirato al Judogi dopo aver visto gli 
+indumenti portati dai praticanti del judo, e introdotto nel 1921.
+
+A G. Funakoshi si devono i 20 precetti della via del Karate:
+1. Il karate comincia con il saluto e termina con il saluto.
+2. Nel karate non si prende l'iniziativa dell'attacco.
+3. Il karate è un complemento della giustizia.
+4. Conosci dapprima te stesso, poi conosci gli altri.
+5. Nell'arte, lo spirito importa più della tecnica.
+6. L'importante è mantenere il proprio spirito aperto verso l'esterno.
+7. La disgrazia proviene dall prigrizia.
+8. Non pensare che si pratichi il karate solamente nel dojo.
+9. L'allenamento del karate si prosegue lungo tutta la vita.
+10. Vedi tutti i fenomeni attraverso il karate e troverai la sottigliezza.
+11. Il karate è come l'acqua calda, si raffredda quando si smette di scaldarla.
+12. Non pensare a vincere, ma pensa a non perdere.
+13. Cambia secondo il tuo avversario.
+14. L'essenziale in combattimento è giocare sul falso e sul vero.
+15. Considera gli arti dell'avversario come altrettante spade.
+16. Quando un uomo varca la porta di una casa, si può trovare di fronte a un
+milione di nemici.
+17. Mettiti in guardia come un principiante, in seguito potrai stare in modo
+naturale.
+18. Bisogna eseguire correttamente i *kata*, essi sono differenti dal
+combattimento.
+19. Non dimenticare le variazioni della forza, la scioltezza del corpo e il
+ritmo delle tecniche.
+20. Pensa ed elabora sempre.
+
+### La scuola Gōjū-ryū di Chōjun Miyagi
+La scuola Gōjū-ryū fu fondata da Chōjun Miyagi che riprese l'arte del Naha-te dal
+suo maestro Higaonna Kanryō. Di derivazione Shōrei, questa scuola affonda le 
+sue origini nell'arte marziale tramandata dai cinesi del villaggio di Kume.
+Il suo sviluppo è particolamente legato alla forza fisica e potenza muscolare
+dei combattenti.
+Chōjun Miyagi nasce a Naha nel 1888 da una famiglia di ricchi commercianti. 
+Inizia lo studio dell'arte marziale con il maestro K. Higaonna all'inizio del
+liceo e quest'ultimo lo considera il suo successore. Nel 1915 parte per la 
+provincia del Fujian in Cina per approfondire le tecniche di combattimento ma
+al suo ritorno trova il maestro morto e deve provvedere lui stesso alle 
+pratiche funebri.
+Compie successivamente numerosi viaggi in Cina, Corea e Giappone per studiare
+nuove tecniche e contribuire all diffusione della sua scuola.
+Anche Miyagi conoscerà, come Funakoshi il fondatore del judo G. Kanō, e come
+lui ne riceverà il supporto, grazie allo spirito del maestro tutt'altro che 
+settario e chiuso.
+  
+Nel 1935 Miyagi chiama la sua scuola Gōjū-ryū e ne fissò i 12 **kata**. 
+In questo periodo medita sulla forma da dare al karate perché questo sia 
+accettato come Budō. Propone di  abolire le antiche denominazioni locali 
+Shuri-te, Tomari-te e Naha-te che accentuavano la separazione dalla 
+tradizione marziale giapponese.
+
+Il nome Gōjū-ryū deriva dagli "Otto precetti dell'arte del combattimento" 
+presenti nel libro tradizionale del Naha-te, denominato **Bubishi**. 
+Essi sono:
+1. Lo spirito dell'uomo è simile all'universo.
+2. Il sangue circola come si muovono la luna e il sole (metafora della 
+trasmissione dell'arte).
+3. Essenziale sono inspirazione e l'espirazione in forza (**gō**) e in 
+cedevolezza (**jū**).
+4. Il corpo segue il tempo e si adatta ai cambiamenti.
+5. Non appena gli arti incontrano il vuoto, si dispongono secondo una tecnica
+giusta.
+6. Il centro di gravità avanza, indietreggia e gli avversarsi si allontanano,
+si incontrano.
+7. Gli occhi devono vedere ai quattro lati.
+8. Le orecchie devono sentire nelle otto direzioni.
+
+La terza frase è la chiave per interpretare il nome Gōjū-ryū.
+
+Uno degli allievi di Miyagi racconta così l'allenamento tipico:
+*"Il Mestro Miyagi ci allenava nella maniera seguente. Per quel che concerne
+l'attacco bisognava che potessimo abbattere l'avversario colpendolo di pugno 
+o di calcio su qualunque parte del corpo. Per ciò che concerne la difesa, 
+dovevamo rinforzarci per essere capaci di far rimbalzare gli attacchi 
+ricevuti su qualsiasi parte del corpo. Per questo non era raro che facessimo 
+soltanto un allenamento per rafforzare il corpo senza fare altro.
+Il mestro ci diceva che il karate non è nulla più di una danza, se il corpo
+manca di potenza e di restistenza."*
 
 ### Fonti storiche
 - Storia del Karate - Kenji Tokitsu - Luni Editore ISBN 978-88-7984-279-2 

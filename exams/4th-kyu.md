@@ -18,6 +18,7 @@
 - **Kagi Tsuki (Jodan - Chudan)**: gancio con rotazione di anca e spalla.
 - **Hiji (Mawashi) Uchi**: colpo di gomito (hiji) portato dall'alto verso il basso e verso l'interno con rotazione del busto.
 - **Sanbon Tsuki**: sequenza di tre colpi Oi Tsuki - Gyaku Tsuki - Oi Tsuki.
+- **Morote Tsuki**: attacco con doppio pugno, parte del kata Gekisai Ichi.
 
 ### Parate
 - **Jodan Uke**: parata alta con l'avambraccio (per proteggere da colpi provenienti dall'alto). Il braccio
@@ -30,10 +31,12 @@
   mentre l'avanbraccio viene portato verso l'esterno, arrestandosi perpendicolare a 45° rivolto in avanti.
 - **Gedan Barai**: parata utile nel caso di attacchi Chudan. Il braccio parte dal'altezza della spalla e scorre
   davanti al busto per arrivare a bloccare un attacco frontale.
+- **Ashi Barai**: spazzata col piede, parte del kata Gekisai Ichi.
 - **Sune Uke**: parata con tibia (hidari o migi), utile per contrastare colpi come Chudan Mawashi Geri
   scaricandone l'impatto.
 - **... Uke**: parata completa. Utile a fornire una copertura completa. La gamba si alza piegata in avanti mentre
   le braccia si chiudono lateralmente per parare contemporaneamente un chudan mawashi geri e un jodan.
+- **Morote Age Uke**: parata con entrambe le braccia a protezione laterale della testa contro attacchi di Jodan Mawashi Geri.
 
 ### Calci
 - **Mae Keage**: calcio frontale portato con la gamba tesa dal basso verso l'alto. Il piede deve 
