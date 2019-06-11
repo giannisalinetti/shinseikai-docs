@@ -2,6 +2,7 @@
 ## (Fighting Karate Roma Team) - www.fighting-karate.com
 
 ![Shinseikai Kanji](shinseikaikanji.jpg)
+  
 Documentazione non ufficiale relativa a tecnica, teoria e informazioni 
 addizionali sullo Shinseikai Karate.
 
