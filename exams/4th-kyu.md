@@ -89,6 +89,10 @@ Combinazioni di massimo 3 tecniche descritte nelle sezioni **Attacchi**,
 ### Nogare
 Respirazione corretta
 
+### Kata
+**Kata**: Forma / **Bunkai**: Applicazione
+- **Gekisai Ichi**: Primo Kata
+
 ### Notazioni
 L'allievo deve sapere:
 - indossare correttamente il karategi (Dogi)
