@@ -5,20 +5,32 @@
 
 ### Posizioni
 - **Uchi Hachiji Dachi**: piedi rivolti verso l'interno con punte che si incontrano, ginocchia ravvicinate.
+- **Sanchin Dachi**: posizione simile a Uchi Hachiji Dachi ma con i piedi sfalsati. L'alluce del piede arretrato
+  è all'altezza del tallone del piede avanzato. Le ginocchia sono sempre rivolte verso l'interno a difesa dei genitali.
 - **Kiba Dachi**: posizione del fantino, piedi paralleli divaricati, ginocchia flesse, busto eretto.
+- **Shiko Dachi**: posizione quadrata, il busto è più basso rispetto al Kiba Dachi e i piedi sono rivolti verso l'esterno.
 - **Heiko Dachi**: posizione naturale, caviglie larghezza spalle, piedi paralleli.
 - **Musubi Dachi**: posizione naturale, talloni uniti e piedi a 30°
 - **Kamae Dachi**: posizione di guardia, **hidari**(guardia sinistra) o **migi**(guardia destra).
+- **Fudo Dachi**: posizione immobile, con braccia in basso e piedi divaricati all'altezza delle spalle.
+- **Zenkutsu Dachi**: posizione abbassata con gamba anteriore piegata a formare una verticale tra
+  ginoccio e tallone e gamba posteriore arretrata. Il peso è caricato sulla gamba anteriore. 
+  Presente nel kata Gekisai Ichi.
 
 ### Attacchi
-- **Oi Tsuki (Jodan - Chudan)**: attacco portato col pugno corrispondente alla gamba avanzata con rotazione di anca e spalla.
-- **Gyaku Tsuki (Jodan - Chudan)**: attacco portato col pugno opposto alla gamba avanzata con rotazione di anca e spalla.
-- **Shita Tsuki**: attacco montante all'altezza dell'addome portato con il palmo rivolto in alto.
-- **Age Tsuki**: attacco montante portato verso il mento dell'avversario con il palmo rivolto in alto.
+- **Oi Tsuki (Jodan - Chudan - Gedan)**: attacco portato col pugno corrispondente alla gamba avanzata con rotazione di anca e spalla.
+- **Gyaku Tsuki (Jodan - Chudan - Gedan)**: attacco portato col pugno opposto alla gamba avanzata con rotazione di anca e spalla.
+- **Shita Tsuki**: attacco montante all'altezza dell'addome portato con il palmo rivolto in alto. E' importante 
+  l'avvitamento del busto. La spalla del braccio che colpisce deve proteggere la mandibola.
+- **Age Tsuki**: attacco montante portato verso il mento dell'avversario con il palmo rivolto in alto. Valgono le 
+  stesse regole dello Shita Tsuki sull'avvitamento.
 - **Kagi Tsuki (Jodan - Chudan)**: gancio con rotazione di anca e spalla.
-- **Hiji (Mawashi) Uchi**: colpo di gomito (hiji) portato dall'alto verso il basso e verso l'interno con rotazione del busto.
+- **Hiji Mawashi Uchi**: colpo di gomito (hiji) portato dall'alto verso il basso e verso l'interno con rotazione del busto.
+- **Age Hiji Ate**: copo di gomito portato dal basso verso l'alto. Il gomito supera l'altezza della testa. Presente nel
+  kata Gekisai Ichi.
 - **Sanbon Tsuki**: sequenza di tre colpi Oi Tsuki - Gyaku Tsuki - Oi Tsuki.
-- **Morote Tsuki**: attacco con doppio pugno, parte del kata Gekisai Ichi.
+- **Morote Tsuki**: attacco con doppio pugno, in parallelo. Colpisce testa e genitali 
+  dell'avversario. Parte del kata Gekisai Ichi.
 
 ### Parate
 - **Jodan Uke**: parata alta con l'avambraccio (per proteggere da colpi provenienti dall'alto). Il braccio
@@ -31,7 +43,7 @@
   mentre l'avanbraccio viene portato verso l'esterno, arrestandosi perpendicolare a 45° rivolto in avanti.
 - **Gedan Barai**: parata utile nel caso di attacchi Chudan. Il braccio parte dal'altezza della spalla e scorre
   davanti al busto per arrivare a bloccare un attacco frontale.
-- **Ashi Barai**: spazzata col piede, parte del kata Gekisai Ichi.
+- **Hashi Barai**: spazzata col piede, parte del kata Gekisai Ichi.
 - **Sune Uke**: parata con tibia (hidari o migi), utile per contrastare colpi come Chudan Mawashi Geri
   scaricandone l'impatto.
 - **... Uke**: parata completa. Utile a fornire una copertura completa. La gamba si alza piegata in avanti mentre
